@@ -1,5 +1,3 @@
-# java-fundamentals-course-GreenMinds
-
 # Fundamentos de Java para Principiantes
 
 ## Resumen del Curso
@@ -36,12 +34,12 @@ https://youtu.be/[VIDEO-1]
 https://replit.com/[LECCION-1]
 
 
-### Lección 2: Variables y Tipos de Datos (8 minutos)
+### Lección 2: Variables y Tipos de Datos (9 minutos)
 
 **Descripción:** Aprende a almacenar información usando variables.
 
 **Video:**  
-https://youtu.be/[VIDEO-2]
+[https://www.youtube.com/watch?v=z9eDDk3ONBE](https://www.youtube.com/watch?v=z9eDDk3ONBE)
 
 **Conceptos clave:**
 - Variables.
@@ -51,7 +49,7 @@ https://youtu.be/[VIDEO-2]
 - boolean.
 
 **Práctica:**  
-https://replit.com/[LECCION-2]
+[https://onlinegdb.com/BGwNMV7ZHf](https://onlinegdb.com/BGwNMV7ZHf)
 
 
 ### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
@@ -129,14 +127,14 @@ https://youtu.be/[VIDEO-6]
 
 Repositorio oficial:
 
-https://github.com/[ORGANIZACION]/java-fundamentals-course-[NOMBRE-EQUIPO]
+https://github.com/GreeenMinds/java-fundamentals-course-GreenMinds/tree/main
 
 ### Actividades Prácticas
 
 | Lección | Actividad | Enlace |
 |----------|----------|----------|
 | 1 | Hola Mundo | https://replit.com/[LECCION-1] |
-| 2 | Variables y Tipos de Datos | https://replit.com/[LECCION-2] |
+| 2 | Variables y Tipos de Datos | https://onlinegdb.com/BGwNMV7ZHf |
 | 3 | Estructuras de Control | https://replit.com/[LECCION-3] |
 | 4 | Métodos y Clases | https://replit.com/[LECCION-4] |
 | 5 | Proyecto POO | https://replit.com/[LECCION-5] |
