@@ -64,6 +64,6 @@ public class Main
 		mascota2.jugar();
 		
 		//Cerrar Scanner
-		lector.Close();
+		lector.close();
 	}
 }
