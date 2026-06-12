@@ -92,7 +92,7 @@ https://replit.com/[LECCION-4]
 **Descripción:** Construye una aplicación sencilla utilizando Programación Orientada a Objetos.
 
 **Video:**  
-https://youtu.be/[VIDEO-5]
+[https://youtu.be/pJMyc8IQxPE?si=kKOcuITt07l17GnE](https://youtu.be/pJMyc8IQxPE?si=kKOcuITt07l17GnE)
 
 **Conceptos clave:**
 - Clases.
@@ -103,8 +103,7 @@ https://youtu.be/[VIDEO-5]
 - Getters y Setters.
 
 **Proyecto práctico:**  
-https://replit.com/[LECCION-5]
-
+[https://onlinegdb.com/PUg658Vqcq](https://onlinegdb.com/PUg658Vqcq)
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 
