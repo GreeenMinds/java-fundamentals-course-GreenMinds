@@ -74,7 +74,7 @@ https://replit.com/[LECCION-3]
 **Descripción:** Aprende a reutilizar código mediante métodos y conoce las clases y objetos.
 
 **Video:**  
-https://youtu.be/[VIDEO-4]
+[https://www.youtube.com/watch?v=_eVWnSaw4pM](https://www.youtube.com/watch?v=_eVWnSaw4pM)
 
 **Conceptos clave:**
 - Métodos.
@@ -84,7 +84,7 @@ https://youtu.be/[VIDEO-4]
 - Objetos.
 
 **Práctica:**  
-https://replit.com/[LECCION-4]
+[https://onlinegdb.com/2OfABNkNw](https://onlinegdb.com/2OfABNkNw)
 
 
 ### Lección 5: Fundamentos de POO y Programa Sencillo (15 minutos)
