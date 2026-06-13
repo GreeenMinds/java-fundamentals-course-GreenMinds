@@ -116,11 +116,15 @@ https://replit.com/[LECCION-3]
 - Buenas prácticas.
 - Errores frecuentes.
 - Recursos para seguir aprendiendo.
+
 **Práctica:**  
+
 -Buenas practicas de programación
 [https://onlinegdb.com/4zI84eL2J](https://onlinegdb.com/4zI84eL2J)
+
 -Errores comunes
 [https://onlinegdb.com/JFLpHR6hbs](https://onlinegdb.com/JFLpHR6hbs)
+
 ---
 
 ## Recursos Adicionales
