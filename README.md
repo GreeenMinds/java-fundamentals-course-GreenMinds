@@ -140,7 +140,7 @@ https://github.com/GreeenMinds/java-fundamentals-course-GreenMinds/tree/main
 |----------|----------|----------|
 | 1 | Hola Mundo | https://replit.com/[LECCION-1] |
 | 2 | Variables y Tipos de Datos | https://onlinegdb.com/BGwNMV7ZHf |
-| 3 | Estructuras de Control | https://replit.com/[LECCION-3] |
+| 3 | Estructuras de Control | https://onlinegdb.com/nQSVglBtJY |
 | 4 | Métodos y Clases | https://replit.com/[LECCION-4] |
 | 5 | Proyecto POO | https://replit.com/[LECCION-5] |
 
