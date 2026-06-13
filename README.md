@@ -57,7 +57,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 **Descripción:** Aprende a tomar decisiones y repetir tareas.
 
 **Video:**  
-https://youtu.be/[VIDEO-3]
+[https://youtu.be/BXeR5lohbPc](https://youtu.be/BXeR5lohbPc)
 
 **Conceptos clave:**
 - if.
@@ -66,8 +66,7 @@ https://youtu.be/[VIDEO-3]
 - while.
 
 **Práctica:**  
-https://replit.com/[LECCION-3]
-
+[https://onlinegdb.com/nQSVglBtJY](https://onlinegdb.com/nQSVglBtJY)
 
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 
