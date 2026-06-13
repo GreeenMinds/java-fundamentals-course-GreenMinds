@@ -23,7 +23,7 @@ Este curso introduce a estudiantes de secundaria a los fundamentos de la program
 **Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para comenzar.
 
 **Video:**  
-https://youtu.be/[VIDEO-1]
+[https://youtu.be/lTwY3DG2hdk](https://youtu.be/lTwY3DG2hdk)
 
 **Conceptos clave:**
 - ¿Qué es programar?
@@ -31,7 +31,7 @@ https://youtu.be/[VIDEO-1]
 - Aplicaciones de Java.
 
 **Práctica:**  
-https://replit.com/[LECCION-1]
+[https://onlinegdb.com/Ibcnx-9jz](https://onlinegdb.com/Ibcnx-9jz)
 
 
 ### Lección 2: Variables y Tipos de Datos (9 minutos)
