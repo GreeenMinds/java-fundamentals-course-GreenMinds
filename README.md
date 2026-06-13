@@ -110,14 +110,17 @@ https://replit.com/[LECCION-3]
 **Descripción:** Buenas prácticas, errores comunes y recursos para continuar aprendiendo Java.
 
 **Video:**  
-https://youtu.be/[VIDEO-6]
+[https://youtu.be/cdfUZaBu3TE](https://youtu.be/cdfUZaBu3TE)
 
 **Conceptos clave:**
 - Buenas prácticas.
 - Errores frecuentes.
-- Depuración básica.
 - Recursos para seguir aprendiendo.
-
+**Práctica:**  
+-Buenas practicas de programación
+[https://onlinegdb.com/4zI84eL2J](https://onlinegdb.com/4zI84eL2J)
+-Errores comunes
+[https://onlinegdb.com/JFLpHR6hbs](https://onlinegdb.com/JFLpHR6hbs)
 ---
 
 ## Recursos Adicionales
